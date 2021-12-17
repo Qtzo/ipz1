@@ -1,0 +1,40 @@
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Release\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Release\IPZ_LAB.exe
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Release\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Release\EntityFramework.dll
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Release\EntityFramework.xml
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.searchDiscipline.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.searchTeacher.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.csproj.CopyComplete
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.exe
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Release\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Release\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Release\IPZ_LAB.exe
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Release\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Release\EntityFramework.dll
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Release\EntityFramework.xml
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.searchDiscipline.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.searchTeacher.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.csproj.CopyComplete
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.exe
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Release\IPZ_LAB.pdb

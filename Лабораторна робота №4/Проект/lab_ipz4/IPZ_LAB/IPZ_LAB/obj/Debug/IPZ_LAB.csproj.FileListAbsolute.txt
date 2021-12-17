@@ -1,0 +1,103 @@
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChoosePlace.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChooseDataDirect1.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.СhooseDataDirect2.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChooseDataDirect1.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChoosePlace.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.СhooseDataDirect2.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChooseDataDirect1.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChoosePlace.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.СhooseDataDirect2.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.searchDiscipline.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.searchTeacher.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.searchDiscipline.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.searchTeacher.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete

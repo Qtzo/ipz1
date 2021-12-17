@@ -1,0 +1,179 @@
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChoosePlace.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChooseDataDirect1.resources
+C:\Users\vbuha\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.СhooseDataDirect2.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChooseDataDirect1.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChoosePlace.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.СhooseDataDirect2.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChooseDataDirect1.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.ChoosePlace.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.СhooseDataDirect2.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\ipz\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.searchDiscipline.resources
+C:\Users\PRO\Desktop\ipz – копія\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.searchTeacher.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.searchDiscipline.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.searchTeacher.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\IPZ_LAB\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.searchDiscipline.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.searchTeacher.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\lab_ipz4 DB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.searchDiscipline.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.searchTeacher.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\PRO\Desktop\lab_ipz4 DB – копія\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\bin\Debug\EntityFramework.dll
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\bin\Debug\EntityFramework.xml
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.AssemblyReference.cache
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+D:\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №2\Проект\lab_ipz2\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\bin\Debug\EntityFramework.dll
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\bin\Debug\EntityFramework.xml
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.AssemblyReference.cache
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\obj\Debug\IPZ_LAB.Exit.resources
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\obj\Debug\IPZ_LAB.Loginform.resources
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\obj\Debug\IPZ_LAB.Registration.resources
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\obj\Debug\IPZ_LAB.Transitional.resources
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\Qkzoo\Desktop\ipz-1-palenychka-2020-ipz_1_palenychka-bbcda7636a5c\Лабораторна робота №4\Проект\lab_ipz4\IPZ_LAB\obj\Debug\IPZ_LAB.pdb

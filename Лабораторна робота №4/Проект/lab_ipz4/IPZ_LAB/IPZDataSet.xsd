@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="IPZDataSet" targetNamespace="http://tempuri.org/IPZDataSet.xsd" xmlns:mstns="http://tempuri.org/IPZDataSet.xsd" xmlns="http://tempuri.org/IPZDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="IPZConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="IPZConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.IPZ_LAB.Properties.Settings.GlobalReference.Default.IPZConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="AutobusesTableAdapter" GeneratorDataComponentClassName="AutobusesTableAdapter" Name="Autobuses" UserDataComponentName="AutobusesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="IPZConnectionString (Settings)" DbObjectName="IPZ.dbo.Autobuses" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Direction FROM dbo.Autobuses</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Direction" DataSetColumn="Direction" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="IPZConnectionString (Settings)" DbObjectName="IPZ.dbo.Autobuses" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="SelectDirect" GenerateMethods="Fill" GenerateShortCommands="true" GeneratorSourceName="SelectDirect" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="SelectDirect">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT   Direction  FROM      Autobuses</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="IPZDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="IPZDataSet" msprop:Generator_UserDSName="IPZDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Autobuses" msprop:Generator_TableClassName="AutobusesDataTable" msprop:Generator_TableVarName="tableAutobuses" msprop:Generator_RowChangedName="AutobusesRowChanged" msprop:Generator_TablePropName="Autobuses" msprop:Generator_RowDeletingName="AutobusesRowDeleting" msprop:Generator_RowChangingName="AutobusesRowChanging" msprop:Generator_RowEvHandlerName="AutobusesRowChangeEventHandler" msprop:Generator_RowDeletedName="AutobusesRowDeleted" msprop:Generator_RowClassName="AutobusesRow" msprop:Generator_UserTableName="Autobuses" msprop:Generator_RowEvArgName="AutobusesRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Direction" msprop:Generator_ColumnVarNameInTable="columnDirection" msprop:Generator_ColumnPropNameInRow="Direction" msprop:Generator_ColumnPropNameInTable="DirectionColumn" msprop:Generator_UserColumnName="Direction">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,35 @@
+C:\Users\vbuha\source\repos\Server_IPZ\bin\Debug\Server_IPZ.exe.config
+C:\Users\vbuha\source\repos\Server_IPZ\bin\Debug\Server_IPZ.exe
+C:\Users\vbuha\source\repos\Server_IPZ\bin\Debug\Server_IPZ.pdb
+C:\Users\vbuha\source\repos\Server_IPZ\obj\Debug\Server_IPZ.csprojAssemblyReference.cache
+C:\Users\vbuha\source\repos\Server_IPZ\obj\Debug\Server_IPZ.csproj.CoreCompileInputs.cache
+C:\Users\vbuha\source\repos\Server_IPZ\obj\Debug\Server_IPZ.exe
+C:\Users\vbuha\source\repos\Server_IPZ\obj\Debug\Server_IPZ.pdb
+C:\Users\PRO\Desktop\Server_IPZ\bin\Debug\Server_IPZ.exe.config
+C:\Users\PRO\Desktop\Server_IPZ\bin\Debug\Server_IPZ.exe
+C:\Users\PRO\Desktop\Server_IPZ\bin\Debug\Server_IPZ.pdb
+C:\Users\PRO\Desktop\Server_IPZ\obj\Debug\Server_IPZ.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\Server_IPZ\obj\Debug\Server_IPZ.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\Server_IPZ\obj\Debug\Server_IPZ.exe
+C:\Users\PRO\Desktop\Server_IPZ\obj\Debug\Server_IPZ.pdb
+C:\Users\PRO\Desktop\ipz\Server_IPZ\bin\Debug\Server_IPZ.exe.config
+C:\Users\PRO\Desktop\ipz\Server_IPZ\bin\Debug\Server_IPZ.exe
+C:\Users\PRO\Desktop\ipz\Server_IPZ\bin\Debug\Server_IPZ.pdb
+C:\Users\PRO\Desktop\ipz\Server_IPZ\obj\Debug\Server_IPZ.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\ipz\Server_IPZ\obj\Debug\Server_IPZ.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\ipz\Server_IPZ\obj\Debug\Server_IPZ.exe
+C:\Users\PRO\Desktop\ipz\Server_IPZ\obj\Debug\Server_IPZ.pdb
+C:\Users\PRO\Desktop\ipz – копія\Server_IPZ\bin\Debug\Server_IPZ.exe.config
+C:\Users\PRO\Desktop\ipz – копія\Server_IPZ\bin\Debug\Server_IPZ.exe
+C:\Users\PRO\Desktop\ipz – копія\Server_IPZ\bin\Debug\Server_IPZ.pdb
+C:\Users\PRO\Desktop\ipz – копія\Server_IPZ\obj\Debug\Server_IPZ.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\ipz – копія\Server_IPZ\obj\Debug\Server_IPZ.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\ipz – копія\Server_IPZ\obj\Debug\Server_IPZ.exe
+C:\Users\PRO\Desktop\ipz – копія\Server_IPZ\obj\Debug\Server_IPZ.pdb
+C:\Users\PRO\Desktop\lab_ipz3 Server\bin\Debug\Server_IPZ.exe.config
+C:\Users\PRO\Desktop\lab_ipz3 Server\bin\Debug\Server_IPZ.exe
+C:\Users\PRO\Desktop\lab_ipz3 Server\bin\Debug\Server_IPZ.pdb
+C:\Users\PRO\Desktop\lab_ipz3 Server\obj\Debug\Server_IPZ.csprojAssemblyReference.cache
+C:\Users\PRO\Desktop\lab_ipz3 Server\obj\Debug\Server_IPZ.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\lab_ipz3 Server\obj\Debug\Server_IPZ.exe
+C:\Users\PRO\Desktop\lab_ipz3 Server\obj\Debug\Server_IPZ.pdb
